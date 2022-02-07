@@ -1,3 +1,3 @@
 function onButtonClick() {
-    alert('Button Clicked');
+    alert('Solved');
 }
