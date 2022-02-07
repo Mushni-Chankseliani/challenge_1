@@ -1,3 +1,3 @@
 # challenge_1
 
-# nothing special
+# Connect button to js function
